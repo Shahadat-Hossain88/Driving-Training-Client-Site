@@ -1,0 +1,18 @@
+.navbar-links {
+    margin: 0 8px;
+}
+.navbar-links:hover {
+    background-color: darkorchid;
+    color: honeydew;
+}
+.my-navbar {
+    background-image: url('../../../../img/bg2.jpg');
+}
+.logo {
+    width: 5%;
+    display: inline-block;
+}
+.navbar-img-link {
+    width: 25%;
+    display: inline-block;
+}
