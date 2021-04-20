@@ -18,21 +18,21 @@ const Carousel = () => {
                         <img src={slideImg1} class="d-block w-100" alt="..." />
                         <div className="carousel-caption d-none d-md-block m-3">
                             <h4 style={{color: 'whitesmoke'}}>Your Safety is Our Priority</h4>
-                            <Link to="" className="btn discover-btn text-uppercase">Discover More</Link>
+                            <Link to="" className="btn discover-btn text-uppercase">More...</Link>
                         </div>
                     </div>
                     <div class="carousel-item">
                         <img src={slideImg2} class="d-block w-100" alt="..." />
                         <div className="carousel-caption d-none d-md-block m-3">
-                            <h4 style={{color: 'whitesmoke'}}>Delivering The Best Lock Smith Services</h4>
-                            <Link to="" className="btn discover-btn text-uppercase">Discover More</Link>
+                            <h4 style={{color: 'whitesmoke'}}> Lorem ipsum dolor sit amet consectetur. </h4>
+                            <Link to="" className="btn discover-btn text-uppercase">More...</Link>
                         </div>
                     </div>
                     <div class="carousel-item">
                         <img src={slideImg3} class="d-block w-100" alt="..." />
                         <div className="carousel-caption d-none d-md-block m-3">
-                            <h4 style={{color: 'whitesmoke'}}>Get The Best Locks And Keys</h4>
-                            <Link to="" className="btn discover-btn text-uppercase">Discover More</Link>
+                            <h4 style={{color: 'whitesmoke'}}>Lorem ipsum dolor sit amet consectetur.</h4>
+                            <Link to="" className="btn discover-btn text-uppercase">More...</Link>
                         </div>
                     </div>
                 </div>
